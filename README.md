@@ -1,7 +1,7 @@
 # deque
 
-[![Package Version](https://img.shields.io/hexpm/v/deque)](https://hex.pm/packages/deque)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/deque/)
+[![Package Version](https://img.shields.io/hexpm/v/gleam_deque)](https://hex.pm/packages/gleam_deque)
+[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/gleam_deque/)
 
 ```sh
 gleam add gleam_deque@1
