@@ -23,4 +23,4 @@ pub fn main() {
 }
 ```
 
-Further documentation can be found at <https://hexdocs.pm/deque>.
+Further documentation can be found at <https://hexdocs.pm/gleam_deque/>.
